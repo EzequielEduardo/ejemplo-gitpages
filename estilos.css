@@ -1,0 +1,22 @@
+p {
+    color: hotpink;
+    font-weight: bold;
+}
+
+div {}
+
+#parrafo3 {
+    color: indigo;
+}
+
+.colorPrincipal {
+    color: lawngreen;
+
+}
+
+.cuadrado {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color:black;
+}
